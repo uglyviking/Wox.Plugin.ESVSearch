@@ -25,7 +25,7 @@ namespace SimpleWebSearch
             {
                 Title = $"{query}",
                 SubTitle = $"Search Google for '{query}'",
-                IcoPath = "Images\\google.png",  //relative path to your plugin directory
+                IcoPath = "Images\\esv.png",  //relative path to your plugin directory
                 Score = 5,
                 Action = e =>
                 {
